@@ -52,4 +52,4 @@ The work is intended as a record of learning, synthesis and professional reflect
 ---
 
 **Author:** Rashmi Chaudhary  
-**Focus:** AI Enablement · Responsible AI · AI Governance · Business Transformation
+**Focus:** Responsible AI · AI Governance · AI Adoption · Business Transformation
