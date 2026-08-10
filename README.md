@@ -39,11 +39,9 @@ The Seven Sutras and their associated recommendations point to several interconn
 
 ## Source
 
-**Reserve Bank of India — FREE-AI Committee Report**
+**[Reserve Bank of India — FREE-AI Committee Report](https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/FREEAIR130820250A24FF2D4578453F824C72ED9F5D5851.PDF)**
 
 *FREE-AI: Framework for Responsible and Ethical Enablement of Artificial Intelligence in the Financial Sector*
-
-The report is available from the Reserve Bank of India's official website.
 
 ## Purpose
 
