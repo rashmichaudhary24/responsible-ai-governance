@@ -1,56 +1,70 @@
 # Responsible AI & Governance in Financial Services
 
-### A practical analysis of the RBI FREE-AI Committee Report
+### From governance foundations to the RBI FREE-AI framework and practical application
 
-**7 Sutras · 26 Recommendations · Practical governance actions**
+**AI Governance · Responsible AI · RBI FREE-AI · AI Adoption · Business Transformation**
 
-An independent study of the Reserve Bank of India's **FREE-AI Committee Report**, exploring the Seven Sutras and their implications for responsible AI adoption in financial services.
+This repository explores how responsible AI principles translate into governance, organisational decisions and practical adoption in financial services.
+
+It brings together three layers of work:
+
+**Foundations → Regulatory framework → Practical application**
 
 ---
 
-## About this work
+## Repository structure
+
+### 01 — [AI Governance Foundations](01-ai-governance-foundations.md)
+
+A concise conceptual foundation covering what AI governance is, why it matters, and the core governance areas organisations need to consider across the AI lifecycle.
+
+### 02 — RBI FREE-AI Framework
+
+A practical analysis of the **Seven Sutras** in the Reserve Bank of India's **FREE-AI Committee Report**. Each note focuses on the RBI recommendations that most directly support that principle and translates them into plain-English organisational implications.
+
+| # | Sutra | Focus |
+|---|---|---|
+| **1** | [**Trust is the Foundation**](02-rbi-free-ai-framework/Sutra-1-Trust-is-the-Foundation.md) | Building and maintaining trust in AI-enabled financial services |
+| **2** | [**People First**](02-rbi-free-ai-framework/Sutra-2-People-First.md) | Keeping people, human judgment and consumer protection at the centre |
+| **3** | [**Innovation over Restraint**](02-rbi-free-ai-framework/Sutra-3-Innovation-over-Restraint.md) | Encouraging responsible innovation while managing AI-related risks |
+| **4** | [**Fairness and Equity**](02-rbi-free-ai-framework/Sutra-4-Fairness-and-Equity.md) | Promoting fair, inclusive and non-discriminatory AI outcomes |
+| **5** | [**Accountability**](02-rbi-free-ai-framework/Sutra-5-Accountability.md) | Establishing clear responsibility and governance for AI systems |
+| **6** | [**Understandable by Design**](02-rbi-free-ai-framework/Sutra-6-Understandable-by-Design.md) | Building transparency and understandability into AI systems |
+| **7** | [**Safety, Resilience and Sustainability**](02-rbi-free-ai-framework/Sutra-7-Safety-Resilience-and-Sustainability.md) | Ensuring AI systems are safe, resilient, sustainable and able to respond to emerging risks |
+
+### 03 — Practical Application
+
+The next layer of the repository will demonstrate how responsible AI principles can be translated into **real workplace decisions, learning experiences and governance actions**.
+
+This section will include practical artefacts and case studies, beginning with a **Responsible AI Decision Simulator** developed in Articulate Storyline 360.
+
+---
+
+## About the RBI analysis
 
 The Reserve Bank of India (RBI) convened the **FREE-AI Committee** to examine the opportunities, risks and responsible adoption of Artificial Intelligence (AI) in the financial sector.
 
 This repository captures my study of the framework through the **Seven Sutras** identified in the report.
 
-Each note examines one Sutra and focuses on the RBI recommendations that most directly support that principle. The objective is not to reproduce the report, but to distil the relevant recommendations into a practical and accessible view of what responsible AI could look like in the financial sector.
+The objective is not to reproduce the report, but to distil the relevant recommendations into a practical and accessible view of what responsible AI could look like in the financial sector.
 
 > **Important note:** Recommendation numbers and titles follow the RBI FREE-AI Committee Report. The content under each Sutra is a focused extraction of the relevant parts of the respective recommendations. The mapping of recommendations to the Seven Sutras is my interpretation.
 
 ---
 
-## The Seven Sutras
+## From principles to practice
 
-| # | Sutra | Focus |
-|---|---|---|
-| **1** | [**Trust is the Foundation**](Sutra-1-Trust-is-the-Foundation.md) | Building and maintaining trust in AI-enabled financial services |
-| **2** | [**People First**](Sutra-2-People-First.md) | Keeping people, human judgment and consumer protection at the centre |
-| **3** | [**Innovation over Restraint**](Sutra-3-Innovation-over-Restraint.md) | Encouraging responsible innovation while managing AI-related risks |
-| **4** | [**Fairness and Equity**](Sutra-4-Fairness-and-Equity.md) | Promoting fair, inclusive and non-discriminatory AI outcomes |
-| **5** | [**Accountability**](Sutra-5-Accountability.md) | Establishing clear responsibility and governance for AI systems |
-| **6** | [**Understandable by Design**](Sutra-6-Understandable-by-Design.md) | Building transparency and understandability into AI systems |
-| **7** | [**Safety, Resilience and Sustainability**](Sutra-7-Safety-Resilience-and-Sustainability.md) | Ensuring AI systems are safe, resilient, sustainable and able to respond to emerging risks |
+A central idea running through this work is:
 
----
-
-## From Principles to Practice
-
-The Seven Sutras provide the principles. The recommendations show how those principles can translate into action.
-
-A key focus of this analysis is the relationship between the two:
-
-**Principle → Recommendation → Organisational action**
+**Principle → Recommendation → Organisational action → Human behaviour**
 
 Many RBI recommendations support more than one Sutra. Rather than repeating an entire recommendation under every relevant principle, this repository extracts **only the portion that substantiates that particular Sutra**.
 
-This makes the overlap visible while keeping each note focused on the practical meaning of the principle.
+The practical application section then takes the next step: exploring what those principles mean when people and organisations actually have to make decisions about AI.
 
 ---
 
 ## Themes emerging across the framework
-
-The Seven Sutras and their associated recommendations point to several interconnected requirements for responsible AI adoption:
 
 - **Trust** — AI should strengthen confidence in financial institutions rather than create new sources of risk.
 - **Human-centred AI** — AI should support people and decision-making while maintaining appropriate human oversight.
@@ -60,22 +74,6 @@ The Seven Sutras and their associated recommendations point to several interconn
 - **Transparency and understandability** — AI systems, their use and their outputs should be sufficiently understandable to those responsible for them and, where relevant, to customers.
 - **Safety and resilience** — AI systems should be monitored, tested, secured and able to respond to failures, incidents and changing risks.
 - **Sustainability** — AI adoption should consider the infrastructure, resources and broader impact required to support it responsibly.
-
----
-
-## How to use this repository
-
-Start with the **Seven Sutras** above and explore the individual notes.
-
-Each note follows the same structure:
-
-### Why does it matter?
-A plain-English explanation of the AI risk or problem the Sutra is intended to address.
-
-### What would this look like in practice?
-Relevant excerpts from the RBI recommendations, focused specifically on what they imply for that Sutra.
-
-The aim is to move from **abstract responsible AI principles to concrete organisational actions**.
 
 ---
 
