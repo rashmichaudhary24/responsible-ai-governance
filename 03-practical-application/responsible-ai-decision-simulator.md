@@ -88,9 +88,9 @@ That is the central learning objective of the experience.
 
 ## Interactive demo
 
-**The published Storyline experience will be hosted here as an interactive GitHub Pages demo.**
+The published Storyline experience is hosted as an interactive GitHub Pages demo.
 
-> ▶ **Launch the Responsible AI Decision Simulator** — *coming shortly*
+> ▶ **[Launch the Responsible AI Decision Simulator](https://rashmichaudhary24.github.io/responsible-ai-governance/03-practical-application/Responsible-AI-Decision-Simulator/story.html)**
 
 ## Why this belongs in an AI Governance portfolio
 
