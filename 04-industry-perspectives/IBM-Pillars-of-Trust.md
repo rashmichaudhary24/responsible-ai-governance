@@ -12,6 +12,10 @@ This perspective is useful because it moves the discussion beyond *whether an or
 
 > **What characteristics should an AI system demonstrate if people are expected to trust it?**
 
+![IBM's Five Pillars of Trust](IBM-5-Pillars-of-Trust.png)
+
+*IBM's Pillars of Trust — an industry perspective on the characteristics of trustworthy AI.*
+
 ---
 
 ## A different lens on AI governance
