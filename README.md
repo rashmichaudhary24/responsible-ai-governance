@@ -6,9 +6,9 @@
 
 This repository explores how responsible AI principles translate into governance, organisational decisions and practical adoption in financial services.
 
-It brings together three layers of work:
+It brings together four layers of work:
 
-**Foundations → Regulatory framework → Practical application**
+**Foundations → Regulatory framework → Practical application → Industry & use-case perspectives**
 
 ---
 
@@ -32,11 +32,17 @@ A practical analysis of the **Seven Sutras** in the Reserve Bank of India's **FR
 | **6** | [**Understandable by Design**](02-rbi-free-ai-framework/Sutra-6-Understandable-by-Design.md) | Building transparency and understandability into AI systems |
 | **7** | [**Safety, Resilience and Sustainability**](02-rbi-free-ai-framework/Sutra-7-Safety-Resilience-and-Sustainability.md) | Ensuring AI systems are safe, resilient, sustainable and able to respond to emerging risks |
 
-### 03 — Practical Application
+### 03 — [Practical Application](03-practical-application/responsible-ai-decision-simulator.md)
 
-The next layer of the repository will demonstrate how responsible AI principles can be translated into **real workplace decisions, learning experiences and governance actions**.
+This layer translates responsible AI principles into **real workplace decisions, learning experiences and governance actions**, beginning with a **Responsible AI Decision Simulator** built in Articulate Storyline 360 — a scenario-based tool that walks through the consequences of AI-related decisions and maps them back to governance principles.
 
-This section will include practical artefacts and case studies, beginning with a **Responsible AI Decision Simulator** developed in Articulate Storyline 360.
+### 04 — [Industry Perspectives](04-industry-perspectives/IBM-Pillars-of-Trust.md)
+
+A look at how AI governance is framed outside financial-sector regulation — starting with **IBM's Pillars of Trust** (Explainability, Fairness, Robustness, Transparency, Privacy) as an industry lens on trustworthy AI, and how it relates to and reinforces the RBI framework above.
+
+### 05 — [AI Use Case Governance Lens](05-ai-use-case-governance-lens.md)
+
+A practical governance lens — Purpose, Data, Accuracy, Human oversight, Authority, Accountability, Transparency & traceability, Controls — applied to five real AI-supported use cases drawn from my AI Enablement, Adoption & Business Transformation portfolio.
 
 ---
 
