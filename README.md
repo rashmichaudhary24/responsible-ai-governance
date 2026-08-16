@@ -6,9 +6,15 @@
 
 This repository explores how responsible AI principles translate into governance, organisational decisions and practical adoption in financial services.
 
-It brings together four layers of work:
+It brings together five layers of work:
 
-**Foundations → Regulatory framework → Practical application → Industry & use-case perspectives**
+**Foundations → Regulatory framework → Practical application → Industry perspective → Use-case governance**
+
+---
+
+## How I use this work
+
+I use these principles as a practical lens when evaluating AI use cases, identifying governance considerations, and thinking through the human, organisational and operational implications of AI adoption.
 
 ---
 
@@ -38,7 +44,7 @@ This layer translates responsible AI principles into **real workplace decisions,
 
 ### 04 — [Industry Perspectives](04-industry-perspectives/IBM-Pillars-of-Trust.md)
 
-A look at how AI governance is framed outside financial-sector regulation — starting with **IBM's Pillars of Trust** (Explainability, Fairness, Robustness, Transparency, Privacy) as an industry lens on trustworthy AI, and how it relates to and reinforces the RBI framework above.
+A look at how responsible AI is framed outside financial-sector regulation — starting with **IBM's Pillars of Trust** (Explainability, Fairness, Robustness, Transparency, Privacy) as an industry lens on trustworthy AI.
 
 ### 05 — [AI Use Case Governance Lens](05-ai-use-case-governance-lens.md)
 
