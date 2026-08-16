@@ -2,7 +2,7 @@
 
 ## Applying Responsible AI Thinking to Real Business Use Cases
 
-The earlier sections of this repository examine AI governance as a concept, through the RBI FREE-AI framework and through practical decision-making.
+The earlier sections of this repository examine AI governance as a concept, through the RBI FREE-AI framework, through an industry perspective, and through practical decision-making.
 
 This section takes the next step:
 
@@ -12,7 +12,7 @@ There is no single Responsible AI checklist that fits every use case equally. Th
 
 The five examples below are drawn from my **AI Enablement, Adoption & Business Transformation Use Cases** portfolio. They deliberately represent different types of AI-supported work: content creation, operational diagnosis, enterprise visibility, management planning and technical knowledge generation.
 
-The purpose of this lens is not to declare any use case "safe" or "unsafe". It is to demonstrate the questions an organisation should ask before moving from experimentation toward implementation.
+The purpose of this lens is not to declare any use case “safe” or “unsafe”. It is to demonstrate the questions an organisation should ask before moving from experimentation toward implementation.
 
 ---
 
@@ -171,7 +171,7 @@ This use case brings AI into organisational decision-making. Even when AI is onl
 
 **AI Governance — AI Validation & Trust**
 
-The use case describes AI being used to accelerate the creation of technical architecture diagrams for a complex banking application. The outputs were professional and coherent, but the model repeatedly inferred "standard" enterprise relationships that did not actually exist. The outputs were therefore validated against actual system design, architectural documentation and SME knowledge before adoption.
+The use case describes AI being used to accelerate the creation of technical architecture diagrams for a complex banking application. The outputs were professional and coherent, but the model repeatedly inferred “standard” enterprise relationships that did not actually exist. The outputs were therefore validated against actual system design, architectural documentation and SME knowledge before adoption.
 
 ### Why governance matters
 
@@ -224,53 +224,15 @@ The closer AI moves toward consequential decisions, sensitive information, or op
 
 ---
 
-# From AI Use Case to Governance Decision
+## The governance decision
 
-A practical organisation-level flow can therefore be expressed as:
+The use-case lens is intended to support a practical organisational conversation before deployment or scale-up:
 
-**Business Problem**
+**What is the use case? What does it touch? What can go wrong? What must remain human? What authority is being delegated? What controls are needed? Who owns the outcome?**
 
-↓
+These questions are deliberately contextual rather than presented as a universal scorecard. Their relevance and depth should change with the use case and its consequences.
 
-**AI Use Case**
-
-↓
-
-**Governance Questions**
-
-↓
-
-**Risk & Controls**
-
-↓
-
-**Human Accountability**
-
-↓
-
-**Deployment Decision**
-
-This extends the workflow used across the underlying AI use-case portfolio, where the starting point is the business problem and AI is treated as one component of a broader process involving operational context, AI-assisted exploration, human validation, implementation and outcome review.
-
-The governance lens adds an explicit decision point before implementation: **what must be true for this use case to be responsibly deployed?**
-
----
-
-# The broader principle
-
-Across these examples, the consistent pattern is not that AI should be avoided because it can be wrong. Nor is it that human review alone solves every governance problem.
-
-The more useful question is:
-
-> **What is AI allowed to do, what must humans own, and what controls make that boundary reliable?**
-
-That boundary will look different for a learning module, an incident diagnosis tool, an operational intelligence system, a management planning assistant and a technical architecture artefact.
-
-Responsible AI governance therefore begins not with a generic list of principles, but with understanding the **specific use case, its context, its risks and the consequences of failure**.
-
----
-
-## Closing thought
+### Closing thought
 
 The purpose of governance is not to prevent useful AI from being used.
 
